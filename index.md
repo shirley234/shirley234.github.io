@@ -3,6 +3,4 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
-
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+A highly motivated and goal-oriented postdoc fellow commits herself to pursuing a professional career as an independent investigator on integrative cancer research, where she may use her full potential and expertise in epidemiology to help better understanding cancer biologics and improving cancer prevention, early detection, and precision medicine.

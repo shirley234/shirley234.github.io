@@ -4,7 +4,81 @@ featured:
 - {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
 
 index:
-- {name: 'Testing General Relativity with Present and Future Astrophysical Observations. Emanuele Berti (Mississippi U. and Lisbon, CENTRA), Enrico Barausse (Paris, Inst. Astrophys. and Paris U., VI-VII), Vitor Cardoso (Lisbon, IST and Perimeter Inst. Theor. Phys. and Lisbon, CENTRA), Leonardo Gualtieri (Rome U. and INFN, Rome), Paolo Pani (Rome U. and INFN, Rome and Lisbon, IST and Lisbon, CENTRA) et al.', url: '/publications/1501.07274.pdf'}
-- {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
-- {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
-- {name: 'Numerical solutions of thin film equations for polymer flows. Thomas. Salez, Joshua D. McGraw, Sara Cormier, Oliver Bäumchen, Kari Dalnoki-Veress, and Elie Raphaël', url: 'https://static1.squarespace.com/static/5684891d7086d74497aeb71f/t/56ec510d2fe1319543ab6d6f/1458327821946/10.1140-epje-i2012-12114-x.pdf'}
+- {Authors_before: 'Mei J, Hu W, Chen Q, Li C, Chen Z, Fan Y, Tian S, Zhang Z, Li B, Ye Q, Yue J,',
+   Me: 'Wang QL',
+   Authors_after: '',
+   Title: 'Development and external validation of a COVID-19 mortality risk prediction algorithm: a multicentre retrospective cohort study',
+   Journal: 'BMJ Open',
+   Loc: '2020 12 24; 10(12):e044028', 
+   PMID: 33361083}
+- {Me: 'Wang QL,',
+   Authors_after: 'Ness-Jensen E, Santoni G, Xie SH, Lagergren J',
+   Title: Development and Validation of a Risk Prediction Model for Esophageal Squamous Cell Carcinoma Using Cohort Studies',
+   Journal: 'Am J Gastroenterol',
+   Loc: '2020 Dec 18', 
+   PMID: 33617173}
+- {Me: 'Wang QL,', 
+   Authors_after: 'Santoni G, Ness-Jensen E, Lagergren J, Xie SH',
+   Title: 'Association Between Metformin Use and Risk of Esophageal Squamous Cell Carcinoma in a Population-Based Cohort Study',
+   Journal: 'Am J Gastroenterol',
+   Loc: '2020 01; 115(1):73-78.', 
+   PMID: 31821177}
+- {Me: 'Wang QL,', 
+   Authors_after: 'Lagergren J, Xie SH',
+   Title: 'Prediction of individuals at high absolute risk of esophageal squamous cell carcinoma',
+   Journal: 'Gastrointest Endosc',
+   Loc: '2019 04; 89(4):726-732.e2', 
+   PMID: 30616974}
+- {Me: 'Wang QL,',
+   Authors_after: 'Xie SH, Wahlin K, Lagergren J',
+   Title: 'Global time trends in the incidence of esophageal squamous cell carcinoma',
+   Journal: 'Clin Epidemiol',
+   Loc: 2018; 10:717-728', 
+   PMID: 29950901}
+- {Me: 'Wang QL,',
+   Authors_after: 'Xie SH, Li WT, Lagergren J',
+   Title: 'Smoking Cessation and Risk of Esophageal Cancer by Histological Type: Systematic Review and Meta-analysis',
+   Journal: 'J Natl Cancer Inst',
+   Loc: '2017 12 01; 109(12)', 
+   PMID: 29933436}
+- {Authors_before: 'Yang H, Zhang H, Zhong Y, ',
+   Me: 'Wang Q, ',
+   Authors_after: 'Yang L, Kang H, Gao X, Yu H, Xie C, Zhou F, Zhou Y',
+   Title: 'Concomitant underexpression of TGFBR2 and overexpression of hTERT are associated with poor prognosis in cervical cancer',
+   Journal: 'Sci Rep',
+   Loc: '2017 02 14; 7:41670', 
+   PMID: 28195144}
+- {Authors_before: 'Qi Y, Wei Y, ',
+   Me: 'Wang Q, ',
+   Authors_after: 'Xu H, Wang Y, Yao A, Yang H, Gao Y, Zhou F',
+   Title: 'Heteroplasmy of mutant mitochondrial DNA A10398G and analysis of its prognostic value in non-small cell lung cancer',
+   Journal: 'Oncol Lett',
+   Loc: '2016 Nov; 12(5):3081-3088', 
+   PMID: 27899967}
+- {Authors_before: 'Guan GG, Wang WB, Lei BX ',
+   Me: 'Wang QL, ',
+   Authors_after: 'Wu L, Fu ZM, Zhou FX, Zhou YF',
+   Title: 'UBE2D3 is a positive prognostic factor and is negatively correlated with hTERT expression in esophageal cancer',
+   Journal: 'Oncol Lett',
+   Loc: 2015 Apr; 9(4):1567-1574', 
+   PMID: 25789002}
+- {Me: 'Wang Q, ',
+   Authors_after: 'Qi Y, Zhang D, Gong C, Yao A, Xiao Y, Yang J, Zhou F, Zhou Y',
+   Title: 'Electrolyte disorders assessment in solid tumor patients treated with anti-EGFR monoclonal antibodies: a pooled analysis of 25 randomized clinical trials',
+   Journal: 'Tumour Biol',
+   Loc: '2015 May; 36(5):3471-82.', 
+   PMID: 25542231}
+- {Me: 'Wang Q, ',
+   Authors_after: 'Han X, Li J, Gao X, Wang Y, Liu M, Dong G, Yue J',
+   Title: 'Regulation of cerebral CYP2D alters tramadol metabolism in the brain: interactions of tramadol with propranolol and nicotine',
+   Journal: 'Xenobiotica',
+   Loc: '2015 Apr; 45(4):335-44',
+   PMID: 25387586}
+- {Authors_before: 'Yao A, Wang Y, Peng X, Ye R, ',
+   Me: 'Wang Q, ',
+   Authors_after: 'Qi Y, Zhou F',
+   Title: 'Predictive value of excision repair cross-complementation group 1 expression for platinum-based chemotherapy and survival in gastric cancer: a meta-analysis',
+   Journal: 'J Cancer Res Clin Oncol',
+   Loc: '2014 Dec; 140(12):2107-17', 
+   PMID: 25387586}
+  

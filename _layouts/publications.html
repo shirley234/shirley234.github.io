@@ -2,6 +2,20 @@
 layout: default
 ---
 
-{{ content }}
-
-{% include publications.html %}
+<div class="row g-5 mb-5">
+    <div>
+      <h3 class="fw-bold border-bottom pb-3 mb-5">Publications</h3>
+      <ol>
+      {% for item in site.data.publications.index %}
+        <li><p>
+          <a>{{ item.Authors_before }}</a>
+          <a><strong>{{item.Me}}</strong></a>
+          <a>{{ item.Authors_after }}.</a>
+          <a>{{item.Title}}.</a>
+          <a> <strong>{{item.Journal}}</strong>. {{item.Loc}}. </a>
+          <a href="https://pubmed.ncbi.nlm.nih.gov/{{item.PMID}}/"  > PMID: {{item.PMID}}</a>
+        </p></li>
+      {% endfor %}
+      </ol>
+    </div>
+  </div>
