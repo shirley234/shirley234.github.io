@@ -10,7 +10,6 @@ title: "CV"
 </div>
 
 
-### This is a CV doc
 
 
 I am an energy system analyst. With all colleagues in the energy sector, we are trying our best to reduce carbon emissions and provide clean, cheap and reliable energy to everyone. <br>
@@ -25,7 +24,6 @@ I would like to see how data science is applied in the energy sector.I am partic
 
 I would like to use this place to record what I have learned and came across. If you think what I posted here interests you, do not hesitate to contact me. You can always <a href="mailto:zy910304@gmail.com" target="_blank">email me</a>.
 
-> I have tea, do you have coffee? 
 
 ### Education
 
