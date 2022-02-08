@@ -9,12 +9,4 @@ title: "Life"
 </div>
 
 
-## My interests
-
-
-### Badminton
-
-
-### xxxx 
-
-### xxxx
+To be added
