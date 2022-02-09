@@ -1,23 +1,23 @@
 menu:
+- {name: 'Home', url: '/'}
 - {name: 'Publications', url: '/publications'}
-- {name: 'Projects', url: '/projects'}
+- {name: 'Teaching', url: '/teaching'}
 - {name: 'Posts', url: '/posts'}
 - {name: 'CV', url: '/cv'}
-- {name: 'Life', url: '/life'}
+- {name: 'Personal', url: '/personal'}
 - {name: 'Contact', url: '/contact'}
 
 social:
-- {icon: 'twitter', link: 'https://twitter.com/Shirley70646511'}
-- {icon: 'instagram', link: 'https://www.instagram.com/qiaoli_wang/'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/qiaoli-wang/'}
 - {icon: 'researchgate', link: 'https://www.researchgate.net/profile/Qiao-Li-Wang'}
+- {icon: 'instagram', link: 'https://www.instagram.com/qiaoli_wang/'}
+- {icon: 'twitter', link: 'https://twitter.com/Shirley70646511'}
 
 contacts:
 - {name: 'Dr. Qiaoli Wang', 
   title: 'Research Fellow', 
   department: 'Department of Medical Oncology', 
   institution: 'Dana-Farber Cancer Institute and Harvard Medical School', 
-  institution_address: '', 
   phone: '617 6326758', 
   email: 'qiaoli_wang@dfci.harvard.edu', 
   office: 'Dana 1212, 450 Brookline Ave, Boston MA 02215', 

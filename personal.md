@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Life"
+title: "Personal"
 ---
 <div class="row g-5 mb-5">
   <div class="col-md-12">

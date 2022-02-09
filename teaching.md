@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Projects"
+title: "Teaching"
 ---
 
 <div class="row g-5 mb-5">
