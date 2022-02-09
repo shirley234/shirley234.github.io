@@ -7,9 +7,14 @@
       <span class="fs-4" > {{ site.description }}</span>
     </a>
   </div>
-  <nav class="d-inline-flex mt-2 mt-md-0 ms-md-auto">
+  <nav class="navbar-nav navbar-expand-lg d-inline-flex mt-2 mt-md-0 ms-md-auto">
+    <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
     {% for item in site.data.settings.menu %}
+     <li class="nav-item">
       <a class="fs-4 me-3 py-2 text-decoration-none" href="{{ item.url }}">{{ item.name }}</a>
+     </li>
+      
     {% endfor %}
+  </ul>
   </nav>
 </header>

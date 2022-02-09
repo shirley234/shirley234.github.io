@@ -4,7 +4,7 @@ layout: default
 
 <div class="row g-5 mb-5">
   <div class="col-md-8">
-    <h3 class="fw-bold">About Me</h3>
+    <h3 class="fw-bold border-bottom">About Me</h3>
     {{ content }}
   </div>
   <div class="col-md-4">
@@ -14,7 +14,7 @@ layout: default
 
 <div class="row g-5 mb-5">
   <div class="col-md-12">
-    <h3 class="fw-bold border-bottom pb-3 mb-5">Recent News</h3>
+    <h3 class="fw-bold border-bottom">Recent News</h3>
     {% include news.md %}
   </div>
 </div>
@@ -22,9 +22,9 @@ layout: default
 
 <div class="row g-5 mb-5">
   <div class="col-md-12">
-    <h3 class="fw-bold border-bottom pb-3 mb-5">Recent Posts</h3>
+    <h3 class="fw-bold border-bottom">Recent Posts</h3>
     {% for post in site.posts %}
-      <p><a href="/{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %-d, %Y" }}</p>
+      <p><a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %-d, %Y" }}</p>
     {% endfor %}
   </div>
 </div>

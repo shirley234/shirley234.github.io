@@ -1,7 +1,8 @@
 ---
-layout: cv
+layout: default_w_title
 title: "CV"
 ---
+
 #### Education
 <table class="table table-striped">
   <thead>
@@ -67,4 +68,3 @@ title: "CV"
 |----------|-------------------------------------------------------------------------------|
 | 2009.10  | Excellent Completion Award of Scientific Research Program for Undergraduates  |
 |----------|-------------------------------------------------------------------------------|
-
