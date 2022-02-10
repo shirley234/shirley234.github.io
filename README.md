@@ -7,4 +7,11 @@ check the format of page title
 ```
 bundle exec jekyll serve
 ```
-dd
+
+
+#TODO
+Change the font size.
+
+icon color.
+
+space between title and content.
