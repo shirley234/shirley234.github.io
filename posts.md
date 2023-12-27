@@ -1,5 +1,5 @@
 ---
-layout: default_w_title
+layout: default
 title: "Posts"
 ---
 <ul>

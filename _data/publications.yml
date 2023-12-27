@@ -9,115 +9,227 @@ index:
    Title: 'Plasma 25-Hydroxyvitamin D Levels and Survival in Stage III Colon Cancer: Findings from CALGB/SWOG 80702 (Alliance)',
    Journal: 'Clin Cancer Res',
    Loc: '2023;29(14):2621-30', 
-   DOI: 10.1158/1078-0432.CCR-23-0447}
+   DOI: '10.1158/1078-0432.CCR-23-0447'}
 - {Me: 'Wang QL, ',
    Authors_after: 'Zhang Y, Zeng E, Grassmann F, He W, Czene K',
    Title: 'Risk of estrogen receptor–specificbreast cancer by family history of estrogen receptor subtypes and other cancers',
    Journal: 'J Natl Cancer Inst',
    Loc: '2023; 115(9):1020-1028', 
-   DOI: 10.1093/jnci/djad104}
+   DOI: '10.1093/jnci/djad104'}
 - {Me: 'Wang QL, ',
    Authors_after: 'Santoni G, Lagergren J',
    Title: 'Diabetes, metformin use, and survival in esophageal cancer: a population-based cohort study',
    Journal: 'JNCI Cancer Spectr',
    Loc: '2023;7(4)', 
-   DOI: 10.1093/jncics/pkad043}
-- {Authors_before: 'Zhang Y',
+   DOI: '10.1093/jncics/pkad043'}
+- {Authors_before: 'Zhang Y, ',
    Me: 'Wang QL, ',
    Authors_after: 'Yuan C, Lee AA, Babic A, Ng K, Perez K, Nowak JA, Lagergren J, Stampfer MJ, Giovannucci EL, Sander C, Rosenthal MH, Kraft P, Wolpin BM',
    Title: 'Pancreatic cancer is associated with medication changes prior to clinical diagnosis',
    Journal: 'Nat Commun',
    Loc: '2023;14(1):2437', 
-   DOI: 10.1038/s41467-023-38088-2}
-- {Authors_before: 'Zhang Y',
+   DOI: '10.1038/s41467-023-38088-2'}
+- {Authors_before: 'Zhang Y, ',
    Me: 'Wang QL, ',
    Authors_after: 'Zeng E, He W, Czene K',
    Title: 'Analysis of Breast Cancer Family History, Estrogen Receptor Status, and Breast Cancer Outcomes in Sweden',
    Journal: 'JAMA Netw Open',
    Loc: '2023;6(6):e2318053', 
-   DOI: 10.1001/jamanetworkopen.2023.18053}
+   DOI: '10.1001/jamanetworkopen.2023.18053'}
 - {Authors_before: 'Yuan C, ',
    Me: 'Wang QL, ',
    Authors_after: 'Kim H, Babic A, Zhang J, Wolpin BM, Wu K, Song M, Ogino S, Meyerhardt JA, Chan AT, Cao Y, Giovannucci EL, Ng K',
    Title: 'Being breastfed in infancy and risk of colorectal cancer and precursor lesions',
    Journal: 'Clin Gastroenterol Hepatol',
    Loc: '2023; Sep 6:S1542-3565(23)00673-0', 
-   DOI: 2023.10.1016/j.cgh.2023.08.023}
+   DOI: '10.1016/j.cgh.2023.08.023'}
+- {Authors_before: 'Meng XY, ',
+   Me: 'Wang QL, ',
+   Authors_after: 'Shi MJ, Zhang HY',
+   Title: 'Historical pathogen-driven selection may contribute to contemporary ethnic difference in bladder cancer susceptibility',
+   Journal: 'Bladder Cancer',
+   Loc: '2023;9(3):211-216', 
+   DOI: '10.3233/BLC-230010'}
+- {Authors_before: 'Lee AA, ',
+   Me: 'Wang QL, ',
+   Authors_after: 'Kim J, Babic A, Zhang X, Perez K, Ng K, Nowak J, Rifai N, Sesso HD, Buring JE, Anderson GL, Wactawski-Wende J, Wallace R, Manson JE, et al',
+   Title: 'Helicobacter pylori seropositivity, ABO blood type, and pancreatic cancer risk from 5 prospective cohorts',
+   Journal: 'Clin Transl Gastroenterol',
+   Loc: '2023;14(5):e00573', 
+   DOI: '10.14309/ctg.0000000000000573'}
+- {Authors_before: 'Babic A, ',
+   Me: 'Wang QL, ',
+   Authors_after: 'Lee AA, Yuan C, Rifai N, Luo J, Tabung FK, Shadyab A, Wactawski-Wende J, Saquib N, Kim J, Kraft P, Sesso HD, Buring JE, Giovannucci EL, et al',
+   Title: 'Sex-specific associations between adiponectin and leptin signaling and pancreatic cancer survival',
+   Journal: 'Cancer Epidemiol Biomarkers Prev',
+   Loc: '2023; 32(10):1458–1469', 
+   DOI: '10.1158/1055-9965.EPI-23-0505'}
+- {Authors_before: 'Babic A, Rosenthal MH, Sundaresan TK, Khalaf N, Lee V, Brais LK, Loftus M, Caplan L, Denning S, Gurung A, Harrod J, Schawkat K, Yuan C, ',
+   Me: 'Wang QL, ',
+   Authors_after: 'Lee AA, et al',
+   Title: 'Adipose tissue and skeletal muscle wasting precede clinical diagnosis of pancreatic cancer',
+   Journal: 'Nat Commun',
+   Loc: '2023;14(1):4317', 
+   DOI: '10.1038/s41467-023-40024-3'}
+- {Authors_before: 'Yuan C, Kim J, ',
+   Me: 'Wang QL, ',
+   Authors_after: 'Lee AA, Babic A, PanScan/Pan CIIIIC, Amundadottir LT, Klein AP, Li D, McCullough ML, Petersen GM, Risch HA, Stolzenberg-Solomon RZ, Perez K, Ng K, et al',
+   Title: 'The age-dependent association of risk factors with pancreatic cancer',
+   Journal: 'Ann Oncol',
+   Loc: '2022;33(7):693-701', 
+   DOI: '10.1016/j.annonc.2022.03.276'}
+- {Authors_before: 'Yuan C, Joh HK, ',
+   Me: 'Wang QL, ',
+   Authors_after: 'Zhang Y, Smith-Warner SA, Wang M, Song M, Cao Y, Zhang X, Zoltick ES, Hur J, Chan AT, Meyerhardt JA, Ogino S, Ng K, et al',
+   Title: 'Sugar-sweetened beverage and sugar consumption and colorectal cancer incidence and mortality according to anatomic subsite',
+   Journal: 'Am J Clin Nutr',
+   Loc: '2022;115(6):1481-9', 
+   DOI: '10.1093/ajcn/nqac040'}
+- {Me: 'Wang QL, ',
+   Authors_after: 'Song M, Clinton SK, Mucci LA, Lagergren J, Giovannucci EL',
+   Title: 'Longitudinal trajectories of lifetime body shape and prostate cancer angiogenesis',
+   Journal: 'Eur J Epidemiol',
+   Loc: '2022;37(3):261-270', 
+   DOI: '10.1007/s10654-021-00838-1'}
+- {Me: 'Wang QL, ',
+   Authors_after: 'Khil J, Hong S, Lee DH, Ha KH, Keum N, Kim HC, Giovannucci EL',
+   Title: 'Temporal association of total serum cholesterol and pancreatic cancer incidence',
+   Journal: 'Nutrients',
+   Loc: '2022;14(22):4938', 
+   DOI: '10.3390/nu14224938'}
+- {Authors_before: 'Nilsson M, Olafsdottir H, Alexandersson von Dobeln G, Villegas F, Gagliardi G, Hellstrom M, ',
+   Me: 'Wang QL, ',
+   Authors_after: 'Johansson H, Gebski V, Hedberg J, Klevebro F, Markar S, Smyth E, Lagergren P, Al-Haidari G, et al',
+   Title: 'Neoadjuvant chemoradiotherapy and surgery for esophageal squamous cell carcinoma versus definitive chemoradiotherapy with salvage surgery as needed: the study protocol for the randomized controlled NEEDS trial',
+   Journal: 'Front Oncol',
+   Loc: '2022;12:917961', 
+   DOI: '10.3389/fonc.2022.917961'}
+- {Me: 'Wang QL, ',
+   Authors_after: 'Ness-Jensen E, Santoni G, Xie SH, Lagergren J',
+   Title: 'Development and validation of a risk prediction model for esophageal squamous cell carcinoma using cohort studies',
+   Journal: 'Am J Gastroenterol',
+   Loc: '2021;116(4):683-691', 
+   DOI: '10.14309/ajg.0000000000001094',
+   PMID: 33617173}
+- {Me: 'Wang QL, ',
+   Authors_after: 'Lagergren J',
+   Title: 'Response to Lai',
+   Journal: 'Am J Gastroenterol',
+   Loc: '2021;116(8):1758', 
+   DOI: '10.14309/ajg.0000000000001312'}
 - {Authors_before: 'Mei J, Hu W, Chen Q, Li C, Chen Z, Fan Y, Tian S, Zhang Z, Li B, Ye Q, Yue J,',
    Me: 'Wang QL',
    Authors_after: '',
    Title: 'Development and external validation of a COVID-19 mortality risk prediction algorithm: a multicentre retrospective cohort study',
    Journal: 'BMJ Open',
    Loc: '2020 12 24; 10(12):e044028', 
-   PMID: 33361083}
-- {Me: 'Wang QL,',
-   Authors_after: 'Ness-Jensen E, Santoni G, Xie SH, Lagergren J',
-   Title: Development and Validation of a Risk Prediction Model for Esophageal Squamous Cell Carcinoma Using Cohort Studies',
-   Journal: 'Am J Gastroenterol',
-   Loc: '2020 Dec 18', 
-   PMID: 33617173}
+   PMID: 33361083,
+   DOI: '10.1136/bmjopen-2020-044028'}
 - {Me: 'Wang QL,', 
    Authors_after: 'Santoni G, Ness-Jensen E, Lagergren J, Xie SH',
    Title: 'Association Between Metformin Use and Risk of Esophageal Squamous Cell Carcinoma in a Population-Based Cohort Study',
    Journal: 'Am J Gastroenterol',
    Loc: '2020 01; 115(1):73-78.', 
-   PMID: 31821177}
+   PMID: 31821177,
+   DOI: '10.14309/ajg.0000000000000478'}
 - {Me: 'Wang QL,', 
    Authors_after: 'Lagergren J, Xie SH',
    Title: 'Prediction of individuals at high absolute risk of esophageal squamous cell carcinoma',
    Journal: 'Gastrointest Endosc',
    Loc: '2019 04; 89(4):726-732.e2', 
-   PMID: 30616974}
+   PMID: 30616974,
+   DOI: '10.1016/j.gie.2018.10.025'}
 - {Me: 'Wang QL,',
    Authors_after: 'Xie SH, Wahlin K, Lagergren J',
    Title: 'Global time trends in the incidence of esophageal squamous cell carcinoma',
    Journal: 'Clin Epidemiol',
    Loc: 2018; 10:717-728', 
-   PMID: 29950901}
+   PMID: 29950901,
+   DOI: '10.2147/CLEP.S166078'}
 - {Me: 'Wang QL,',
    Authors_after: 'Xie SH, Li WT, Lagergren J',
    Title: 'Smoking Cessation and Risk of Esophageal Cancer by Histological Type: Systematic Review and Meta-analysis',
    Journal: 'J Natl Cancer Inst',
    Loc: '2017 12 01; 109(12)', 
-   PMID: 29933436}
+   PMID: 29933436,
+   DOI: '10.1093/jnci/djx115'}
 - {Authors_before: 'Yang H, Zhang H, Zhong Y, ',
    Me: 'Wang Q, ',
    Authors_after: 'Yang L, Kang H, Gao X, Yu H, Xie C, Zhou F, Zhou Y',
    Title: 'Concomitant underexpression of TGFBR2 and overexpression of hTERT are associated with poor prognosis in cervical cancer',
    Journal: 'Sci Rep',
    Loc: '2017 02 14; 7:41670', 
-   PMID: 28195144}
+   PMID: 28195144,
+   DOI: '10.1038/srep41670'}
 - {Authors_before: 'Qi Y, Wei Y, ',
    Me: 'Wang Q, ',
    Authors_after: 'Xu H, Wang Y, Yao A, Yang H, Gao Y, Zhou F',
    Title: 'Heteroplasmy of mutant mitochondrial DNA A10398G and analysis of its prognostic value in non-small cell lung cancer',
    Journal: 'Oncol Lett',
    Loc: '2016 Nov; 12(5):3081-3088', 
-   PMID: 27899967}
+   PMID: 27899967,
+   DOI: '10.3892/ol.2016.5086'}
 - {Authors_before: 'Guan GG, Wang WB, Lei BX ',
    Me: 'Wang QL, ',
    Authors_after: 'Wu L, Fu ZM, Zhou FX, Zhou YF',
    Title: 'UBE2D3 is a positive prognostic factor and is negatively correlated with hTERT expression in esophageal cancer',
    Journal: 'Oncol Lett',
    Loc: 2015 Apr; 9(4):1567-1574', 
-   PMID: 25789002}
+   PMID: 25789002,
+   DOI: '10.3892/ol.2015.2926'}
 - {Me: 'Wang Q, ',
    Authors_after: 'Qi Y, Zhang D, Gong C, Yao A, Xiao Y, Yang J, Zhou F, Zhou Y',
    Title: 'Electrolyte disorders assessment in solid tumor patients treated with anti-EGFR monoclonal antibodies: a pooled analysis of 25 randomized clinical trials',
    Journal: 'Tumour Biol',
-   Loc: '2015 May; 36(5):3471-82.', 
-   PMID: 25542231}
+   Loc: '2015 May; 36(5):3471-82', 
+   PMID: 25542231,
+   DOI: '10.1007/s13277-014-2983-9'}
 - {Me: 'Wang Q, ',
    Authors_after: 'Han X, Li J, Gao X, Wang Y, Liu M, Dong G, Yue J',
    Title: 'Regulation of cerebral CYP2D alters tramadol metabolism in the brain: interactions of tramadol with propranolol and nicotine',
    Journal: 'Xenobiotica',
    Loc: '2015 Apr; 45(4):335-44',
-   PMID: 25387586}
+   PMID: 25387586,
+   DOI: '10.3109/00498254.2014.981609'}
 - {Authors_before: 'Yao A, Wang Y, Peng X, Ye R, ',
    Me: 'Wang Q, ',
    Authors_after: 'Qi Y, Zhou F',
    Title: 'Predictive value of excision repair cross-complementation group 1 expression for platinum-based chemotherapy and survival in gastric cancer: a meta-analysis',
    Journal: 'J Cancer Res Clin Oncol',
    Loc: '2014 Dec; 140(12):2107-17', 
-   PMID: 25387586}
-  
+   PMID: 25387586,
+   DOI: '10.1007/s00432-014-1758-4'}
+
+
+conference:
+- {Me: 'Wang QL, ',
+   Authors_after: ' Babic A, Rosenthal MH, Lee AA, Zhang Y, Zhang X, Song M, Rezende LF, Lee DH, Biller L, Ng K, Chan AT, Stampfer MJ, Giovannucci EL, Kraft P, et al',
+   Title: 'Weight loss and subsequent cancer diagnosis: A prospective cohort study',
+   Journal: 'The age-dependent association of risk factors with pancreatic cancer',
+   Loc: '2022;82(12_Supplement):5934', 
+   DOI: '10.1158/1538-7445.AM2022-5934'}
+
+- {Authors_before: 'Yuan C, Kim J, ',
+   Me: 'Wang QL, ',
+   Authors_after: ' Lee AA, Babic A, Amundadottir LT, Klein AP, Li D, McCullough ML, Petersen GM, Risch HA, Stolzenberg-Solomon RZ, Perez K, Ng K, Giovannucci EL, et al',
+   Title: 'Weight loss and subsequent cancer diagnosis: A prospective cohort study',
+   Journal: 'Cancer Res',
+   Loc: '2022;82(12)', 
+   DOI: '10.1158/1538-7445.AM2022-5891'}
+- {Authors_before: 'Lee AA, ',
+   Me: 'Wang QL, ',
+   Authors_after: 'Kim J, Babic A, Zhang X, Perez K, Ng K, Sesso H, Manson JE, Giovannucci E, Stampfer M, Kraft P, Yuan C, Wolpin B',
+   Title: 'Helicobacter pylori seropositivity and pancreatic cancer risk',
+   Journal: 'Gastroenterology',
+   Loc: '2022;162(7):S733-S', 
+   DOI: '10.1016/S0016-5085(22)61729-3'}
+- {Me: 'Wang QL, ',
+   Title: 'Diabetes and Metformin Use in Association With Survival in Esophageal Cancer',
+   Journal: 'Am J Gastroenterol',
+   Loc: '2021;116:S199', 
+   DOI: '10.14309/01.ajg.0000774264.05884.e6'}
+- {Me: 'Wang QL, ',
+   Title: 'Decreased risk of esophageal squamous cell carcinoma among metformin users in a population-based cohort study',
+   Journal: 'J Clin Oncol',
+   Loc: '2019;37(15)', 
+   DOI: '10.1200/JCO.2019.37.15_suppl.e15507'}

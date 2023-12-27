@@ -1,5 +1,5 @@
 ---
-layout: default_w_title
+layout: default
 title: "Contact"
 ---
 {% include contact_detail.html %}
