@@ -8,7 +8,12 @@
           <a>{{ item.Authors_after }}.</a>
           <a>{{item.Title}}.</a>
           <a> <strong>{{item.Journal}}</strong>. {{item.Loc}}. </a>
-          <a href="https://pubmed.ncbi.nlm.nih.gov/{{item.PMID}}/"  > PMID: {{item.PMID}}</a>
+          {%if {item.PMID} %}
+          <a href="https://pubmed.ncbi.nlm.nih.gov/{{item.PMID}}/"  > PMID: {{item.PMID}}   </a>
+          {% endif %}
+          {%if {item.DOI} %}
+          <a href = "https://doi.org/{{item.DOI}}"> DOI: {{item.DOI}}</a>
+          {% endif %}
         </p></li>
       {% endfor %}
       </ol>

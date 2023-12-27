@@ -4,6 +4,45 @@ featured:
 - {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
 
 index:
+- {Me: 'Wang QL, ',
+   Authors_after: 'Ma C, Yuan C, Shi Q, Wolpin BM, Zhang Y, Fuchs CS, Meyer J, Zemla T, Cheng E, Kumthekar P, Guthrie KA, Couture F, Kuebler P, Kumar P, et al',
+   Title: 'Plasma 25-Hydroxyvitamin D Levels and Survival in Stage III Colon Cancer: Findings from CALGB/SWOG 80702 (Alliance)',
+   Journal: 'Clin Cancer Res',
+   Loc: '2023;29(14):2621-30', 
+   DOI: 10.1158/1078-0432.CCR-23-0447}
+- {Me: 'Wang QL, ',
+   Authors_after: 'Zhang Y, Zeng E, Grassmann F, He W, Czene K',
+   Title: 'Risk of estrogen receptor–specificbreast cancer by family history of estrogen receptor subtypes and other cancers',
+   Journal: 'J Natl Cancer Inst',
+   Loc: '2023; 115(9):1020-1028', 
+   DOI: 10.1093/jnci/djad104}
+- {Me: 'Wang QL, ',
+   Authors_after: 'Santoni G, Lagergren J',
+   Title: 'Diabetes, metformin use, and survival in esophageal cancer: a population-based cohort study',
+   Journal: 'JNCI Cancer Spectr',
+   Loc: '2023;7(4)', 
+   DOI: 10.1093/jncics/pkad043}
+- {Authors_before: 'Zhang Y',
+   Me: 'Wang QL, ',
+   Authors_after: 'Yuan C, Lee AA, Babic A, Ng K, Perez K, Nowak JA, Lagergren J, Stampfer MJ, Giovannucci EL, Sander C, Rosenthal MH, Kraft P, Wolpin BM',
+   Title: 'Pancreatic cancer is associated with medication changes prior to clinical diagnosis',
+   Journal: 'Nat Commun',
+   Loc: '2023;14(1):2437', 
+   DOI: 10.1038/s41467-023-38088-2}
+- {Authors_before: 'Zhang Y',
+   Me: 'Wang QL, ',
+   Authors_after: 'Zeng E, He W, Czene K',
+   Title: 'Analysis of Breast Cancer Family History, Estrogen Receptor Status, and Breast Cancer Outcomes in Sweden',
+   Journal: 'JAMA Netw Open',
+   Loc: '2023;6(6):e2318053', 
+   DOI: 10.1001/jamanetworkopen.2023.18053}
+- {Authors_before: 'Yuan C, ',
+   Me: 'Wang QL, ',
+   Authors_after: 'Kim H, Babic A, Zhang J, Wolpin BM, Wu K, Song M, Ogino S, Meyerhardt JA, Chan AT, Cao Y, Giovannucci EL, Ng K',
+   Title: 'Being breastfed in infancy and risk of colorectal cancer and precursor lesions',
+   Journal: 'Clin Gastroenterol Hepatol',
+   Loc: '2023; Sep 6:S1542-3565(23)00673-0', 
+   DOI: 2023.10.1016/j.cgh.2023.08.023}
 - {Authors_before: 'Mei J, Hu W, Chen Q, Li C, Chen Z, Fan Y, Tian S, Zhang Z, Li B, Ye Q, Yue J,',
    Me: 'Wang QL',
    Authors_after: '',
