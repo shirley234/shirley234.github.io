@@ -1,7 +1,7 @@
 menu:
 - {name: 'Home', url: '/'}
 - {name: 'Publications', url: '/publications'}
-- {name: 'Teaching', url: '/teaching'}
+- {name: 'Teaching & Supervision', url: '/teaching'}
 - {name: 'Posts', url: '/posts'}
 - {name: 'CV', url: '/cv'}
 - {name: 'Personal', url: '/personal'}
