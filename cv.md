@@ -7,7 +7,7 @@ title: "CV"
 <table class="table table-striped">
   <thead>
     <tr>
-      <th scope="col">Time</th>
+      <th style="width:15%" scope="col">Time</th>
       <th scope="col">Position</th>
       <th scope="col">Institution</th>
       <th scope="col">Lab</th>
@@ -33,7 +33,7 @@ title: "CV"
 <table class="table table-striped">
   <thead>
     <tr>
-      <th scope="col">Time</th>
+      <th style="width:15%" scope="col">Time</th>
       <th scope="col">University</th>
       <th scope="col">Department</th>
       <th scope="col">Topic</th>
@@ -74,11 +74,11 @@ title: "CV"
 </table>
 
 
-#### Academic Distinctions
-<table class="table table-striped" style="width:70%">
+#### Awarded Grants
+<table class="table table-striped" style="width:60%">
   <thead>
     <tr>
-      <th scope="col">Time</th>
+      <th style="width:25%" scope="col">Time</th>
       <th scope="col">Award</th>
     </tr>
   </thead>
@@ -146,3 +146,94 @@ title: "CV"
   </tbody>
 </table>
 
+#### Scientific Appointments
+
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th style="width:15%" scope="col">Time</th>
+      <th scope="col">Role</th>
+      <th scope="col">Appointments</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">2023.9 - </th>
+      <td>Member</td>
+      <td>NIH Early Detection Research Network (EDRN) - Early Career Working Group</td>
+    </tr>
+    <tr>
+      <th scope="row">2022.12 - </th>
+      <td>Member</td>
+      <td>NIH Pancreatic Cancer Detection Consortium (PCDC) - Biostatistics Working Group</td>
+    </tr>
+    <tr>
+      <th scope="row">2022.10 - </th>
+      <td>Member</td>
+      <td>American Society for Nutrition (ASN) </td>
+    </tr>
+    <tr>
+      <th scope="row">2021.11 - </th>
+      <td>Associate member</td>
+      <td>American Association for Cancer Research (AACR)</td>
+    </tr>
+    <tr>
+      <th scope="row">2021.4 - </th>
+      <td>Member</td>
+      <td>American College of Gastroenterology (ACG)</td>
+    </tr>
+    <tr>
+      <th scope="row">2019.2 - </th>
+      <td>Member</td>
+      <td>American Society of Clinical Oncology (ASCO)</td>
+    </tr>
+    <tr>
+      <th scope="row">2017.3 - </th>
+      <td>Member</td>
+      <td>International Epidemiological Association (IEA)</td>
+    </tr>
+    <tr>
+      <th scope="row">2017.1 - </th>
+      <td>Member</td>
+      <td>Swedish Medical Association (SMA)</td>
+    </tr>
+  </tbody>
+</table>
+
+#### Scientific Appointments
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th style="width:15%" scope="col">Time</th>
+      <th style="width:15%" scope="col">Role</th>
+      <th scope="col">Journal</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">2023.7 - </th>
+      <td>Editor</td>
+      <td>Frontiers In Oncology - Cancer Epidemiology and Prevention</td>
+    </tr>
+    <tr>
+      <th scope="row">2023.7 - </th>
+      <td>Guest editor</td>
+      <td>Frontiers in Molecular Biosciences - Cancer of the Upper Gastrointestinal Tract: Novel Targets for Prevention, Diagnosis, and Treatment</td>
+    </tr>
+    <tr>
+      <th scope="row">2023.5 - </th>
+      <td>Editor</td>
+      <td>Frontiers in Public Health - Infectious Diseases: Epidemiology and Prevention</td>
+    </tr>
+    <tr>
+      <th scope="row">2022.4 - 2022.11 </th>
+      <td>Guest editor</td>
+      <td>Disease Biomarkers - High Resolution Omics for Biomarker Discovery</td>
+    </tr>
+    <tr>
+      <th scope="row"></th>
+      <td>Peer reviewer</td>
+      <td>The Lancet; The BMJ; Gut; American Journal of Gastroenterology; The Lancet Reginal Health - Europe; Journal of Internal Medicine; British Journal of Cancer; International Journal of Cancer; Cancers; Frontiers in Medicine; Cancer Epidemiology, Biomarkers & Prevention; Nutrition and Cancer; Current Problems in Cancer; World Journal of Gastrointestinal Oncology; World Journal of Gastroenterology; Cancer Epidemiology; Journal of Epidemiology and Community Health; Journal of Applied Microbiology; Cancer Communications; Cancer Management and Research; OncoTargets and Therapy</td>
+    </tr>
+  </tbody>
+</table>

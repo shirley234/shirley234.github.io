@@ -7,7 +7,7 @@ title: "Teaching & Supervision"
 <table class="table table-striped">
   <thead>
     <tr>
-      <th scope="col">Time</th>
+      <th style="width:15%" scope="col">Time</th>
       <th scope="col">Role</th>
       <th scope="col">Course</th>
       <th scope="col">Institution</th>
@@ -52,7 +52,7 @@ title: "Teaching & Supervision"
 <table class="table table-striped">
   <thead>
     <tr>
-      <th scope="col">Time</th>
+      <th style="width:15%" scope="col">Time</th>
       <th scope="col">Role</th>
       <th scope="col">Student</th>
       <th scope="col">Institution</th>
