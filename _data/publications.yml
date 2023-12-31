@@ -205,7 +205,7 @@ conference:
 - {Me: 'Wang QL, ',
    Authors_after: ' Babic A, Rosenthal MH, Lee AA, Zhang Y, Zhang X, Song M, Rezende LF, Lee DH, Biller L, Ng K, Chan AT, Stampfer MJ, Giovannucci EL, Kraft P, et al',
    Title: 'Weight loss and subsequent cancer diagnosis: A prospective cohort study',
-   Journal: 'The age-dependent association of risk factors with pancreatic cancer',
+   Journal: 'Cancer Res',
    Loc: '2022;82(12_Supplement):5934', 
    DOI: '10.1158/1538-7445.AM2022-5934'}
 
@@ -216,6 +216,7 @@ conference:
    Journal: 'Cancer Res',
    Loc: '2022;82(12)', 
    DOI: '10.1158/1538-7445.AM2022-5891'}
+
 - {Authors_before: 'Lee AA, ',
    Me: 'Wang QL, ',
    Authors_after: 'Kim J, Babic A, Zhang X, Perez K, Ng K, Sesso H, Manson JE, Giovannucci E, Stampfer M, Kraft P, Yuan C, Wolpin B',
@@ -223,11 +224,13 @@ conference:
    Journal: 'Gastroenterology',
    Loc: '2022;162(7):S733-S', 
    DOI: '10.1016/S0016-5085(22)61729-3'}
+
 - {Me: 'Wang QL, ',
    Title: 'Diabetes and Metformin Use in Association With Survival in Esophageal Cancer',
    Journal: 'Am J Gastroenterol',
    Loc: '2021;116:S199', 
    DOI: '10.14309/01.ajg.0000774264.05884.e6'}
+   
 - {Me: 'Wang QL, ',
    Title: 'Decreased risk of esophageal squamous cell carcinoma among metformin users in a population-based cohort study',
    Journal: 'J Clin Oncol',
