@@ -5,6 +5,12 @@ featured:
 
 index:
 - {Me: 'Wang QL, ',
+   Authors_after: 'Babic A, Rosenthal MH, Lee AA, Zhang Y, Zhang XH, Song MY, Rezende LFM, Lee DH, Biller L, Ng K, Giannakis M, Chan AT, Meyerhardt JA, Fuchs CS, et al',
+   Title: 'Cancer Diagnoses After Recent Weight Loss',
+   Journal: 'JAMA',
+   Loc: '2024;331(4):318-328', 
+   DOI: '10.1001/jama.2023.25869'}
+- {Me: 'Wang QL, ',
    Authors_after: 'Ma C, Yuan C, Shi Q, Wolpin BM, Zhang Y, Fuchs CS, Meyer J, Zemla T, Cheng E, Kumthekar P, Guthrie KA, Couture F, Kuebler P, Kumar P, et al',
    Title: 'Plasma 25-Hydroxyvitamin D Levels and Survival in Stage III Colon Cancer: Findings from CALGB/SWOG 80702 (Alliance)',
    Journal: 'Clin Cancer Res',
