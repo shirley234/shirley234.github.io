@@ -4,6 +4,7 @@ title: "CV"
 ---
 
 #### Research
+<!---
 <table class="table table-striped">
   <thead>
     <tr>
@@ -28,6 +29,7 @@ title: "CV"
     </tr>
   </tbody>
 </table>
+
 
 #### Education
 <table class="table table-striped">
@@ -237,3 +239,5 @@ title: "CV"
     </tr>
   </tbody>
 </table>
+
+-->

@@ -2,6 +2,7 @@
 layout: default
 title: "Teaching & Supervision"
 ---
+<!---
 
 #### Teaching
 <table class="table table-striped">
@@ -98,3 +99,5 @@ title: "Teaching & Supervision"
     
   </tbody>
 </table>
+
+-->
